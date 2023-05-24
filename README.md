@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dpsi4 aka Reid
-- 👀 I’m interested in IAC, GoLang, Ruby, Java
-- 🌱 I’m currently learning GoLang
+- 👀 I’m interested in IAC, GoLang, Ruby, Python, and Java
+- 🌱 I’m currently learning GoLang and Python 🐍, as well as some AI and ML stuff
 - 💞️ I’m looking to collaborate on GoLang projects
 - 📫 How to reach me email from Profile
 
