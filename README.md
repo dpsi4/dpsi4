@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @dpsi4 aka Reid
-- 👀 I’m interested in IAC, GoLang, Ruby, Python, and Java
-- 🌱 I’m currently learning GoLang and Python 🐍, as well as some AI and ML stuff
+- 👋 Hi, I’m @dpsi4 (pronounced 'decypher')
+- 🦊 I also go by Fineas Foxx, as well as nicknames thereof
+- 👀 I’m interested in IAC, GoLang, and Python
+- 🌱 I’m currently learning GoLang and Python 🐍, as well as some AI / ML stuff
 - 💞️ I’m looking to collaborate on GoLang projects
 - 📫 Reach me via email from Profile
 
